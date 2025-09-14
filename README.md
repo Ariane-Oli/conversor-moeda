@@ -21,7 +21,6 @@ coin-converter/
 ├─ README.md          # Documentação do projeto
 └─ requirements.txt   # Dependências do projeto
 ```
-4. Instalação
 
 1.Clone o repositório:
 ```bash
