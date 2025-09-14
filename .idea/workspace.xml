@@ -6,10 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5493e48e-3167-49d0-8921-5fd636a1a0d7" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/conversor-moeda/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/conversor-moeda" beforeDir="false" afterPath="$PROJECT_DIR$/conversor-moeda" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/conversor-moeda/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/conversor-moeda/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/converter.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
