@@ -1,4 +1,4 @@
-📖 Coin Converter – README
+# 📖 Coin Converter 
 1. Visão Geral
 
 O Coin Converter é uma ferramenta simples em Python que converte valores entre diferentes moedas usando a API gratuita ExchangeRate-API.
